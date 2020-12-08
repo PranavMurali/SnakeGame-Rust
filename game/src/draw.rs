@@ -36,3 +36,7 @@ pub fn draw_rectangle(color:Color, x:i32, y:i32, width:i32, height:i32, con: &Co
         g,
     );
 }
+
+pub fn to_coord_u32(game_coord: i32) -> u32{
+    to_coord(game_coord) as u32
+}
