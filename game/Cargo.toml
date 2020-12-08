@@ -10,7 +10,7 @@ edition = "2018"
 rand="0.7.3"
 # rand deals with random generation of our apples.
 
-piston_window="0.74.0"
+piston_window="0.116.0"
 # piston_window helps with game window generation and some game logic.
 
 # What do i do if i dont know my version number?

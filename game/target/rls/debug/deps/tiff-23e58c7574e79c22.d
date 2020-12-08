@@ -1,0 +1,12 @@
+f:\Rust\SnakeGame-Rust\game\target\rls\debug\deps\tiff-23e58c7574e79c22.rmeta: C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\lib.rs C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\decoder\mod.rs C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\decoder\ifd.rs C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\decoder\stream.rs C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\encoder\mod.rs C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\encoder\colortype.rs C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\encoder\writer.rs C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\error.rs
+
+f:\Rust\SnakeGame-Rust\game\target\rls\debug\deps\tiff-23e58c7574e79c22.d: C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\lib.rs C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\decoder\mod.rs C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\decoder\ifd.rs C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\decoder\stream.rs C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\encoder\mod.rs C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\encoder\colortype.rs C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\encoder\writer.rs C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\error.rs
+
+C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\lib.rs:
+C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\decoder\mod.rs:
+C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\decoder\ifd.rs:
+C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\decoder\stream.rs:
+C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\encoder\mod.rs:
+C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\encoder\colortype.rs:
+C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\encoder\writer.rs:
+C:\Users\Pranav\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.3.1\src\error.rs:
