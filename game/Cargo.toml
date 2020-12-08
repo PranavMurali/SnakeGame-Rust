@@ -1,0 +1,20 @@
+[package]
+name = "game"
+version = "0.1.0"
+authors = ["Pranav Murali <pranavmurali2001@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand="0.7.3"
+# rand deals with random generation of our apples.
+
+piston_window="0.116.0"
+# piston_window helps with game window generation and some game logic.
+
+# What do i do if i dont know my version number?
+#   1. Use asterisks (*) instead of the exact version numbers above.
+#   2. Run cargo update in the command prompt/powershell,etc.
+#   3. Check cargo.lock for the dependencies you have added and replace the asterisks with the version numbers.
+#   Note: It is bette to reaplce the asterisks with proper version numbers so that syntax issues would not arise from future updates.
