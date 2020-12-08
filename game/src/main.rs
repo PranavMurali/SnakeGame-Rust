@@ -19,7 +19,7 @@ fn main() {
     let (width, height) = (30, 30);
 
     let mut window: PistonWindow =
-        WindowSettings::new("Snake", [to_coord_u32(width), to_coord_u32(height)])
+        WindowSettings::new("SnakeGame", [to_coord_u32(width), to_coord_u32(height)])
             .exit_on_esc(true)
             .build()
             .unwrap();
